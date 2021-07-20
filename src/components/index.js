@@ -1,0 +1,9 @@
+export { default as Home } from "./Home";
+export { default as Header } from "./Header";
+export { default as Search } from "./Search";
+export { default as Album } from "./Album";
+export { default as Albums } from "./Albums";
+export { default as Artist } from "./Artist";
+export { default as Artists } from "./Artists";
+export { default as Genre } from "./Genre";
+export { default as Genres } from "./Genres";
